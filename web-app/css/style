@@ -1,0 +1,22 @@
+.list_content {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.comment_div {
+    width: 600px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.add_comment_div {
+    display: none;
+}
+
+.comment_text {
+    float: left;
+    width: 100%;
+    height: 200px;
+}
